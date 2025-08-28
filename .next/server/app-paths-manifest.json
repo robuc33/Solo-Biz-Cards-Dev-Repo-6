@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/members/page": "app/members/page.js",
+  "/card/[cardId]/page": "app/card/[cardId]/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/dashboard/cards/page": "app/dashboard/cards/page.js",
+  "/dashboard/systems/page": "app/dashboard/systems/page.js"
+}
